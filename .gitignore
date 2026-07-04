@@ -1,0 +1,15 @@
+# Compiled output
+out/
+*.class
+
+# Output files generated at runtime
+output_*.txt
+scraped_data.csv
+scraped_data.json
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
